@@ -1,6 +1,6 @@
 ﻿# Genaro Falconi
 <p> 
-  Full Stack Developer y estoy en ultimo año de la carrera Administracion de Sistemas
+  Full Stack Developer y cursando ultimo año de la carrera Administracion de Sistemas
   
   Soy una persona proactiva, que le gusta investigar y desarrollar nuevos negocios mirando a un mundo futuro. Aportar donde pueda y ser un mejor profesional cada dia
 </p>
