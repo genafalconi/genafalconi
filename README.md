@@ -1,30 +1,28 @@
 ﻿# Genaro Falconi
 <p> 
-  Full Stack Developer y cursando ultimo año de la carrera Administracion de Sistemas
-  
-  Soy una persona proactiva, que le gusta investigar y desarrollar nuevos negocios mirando a un mundo futuro. Ser un mejor profesional cada dia y aportar ideas, conocimientos y ganas de trabajar en cada proyecto 
+  Full Stack Developer with a degree in Systems Administration, I have a strong background in developing software solutions for various industries. I have recently worked for Exolgan, where I developed and implemented the Import and Export Coordination project. Additionally, I have completed the Foundations of Data Science course and have expertise in using K-Means Clustering in Python.
+
+I have proficiency in several programming languages, including ReactJS, NestJS, VueJS, NodeJS, SQL, MongoDB, TypeScript, and Firebase. I am proficient in the technologies that I consider necessary for developing complex and dynamic web applications.
+
+I have successfully developed and launched my personal eCommerce website, which showcases my technical skills and attention to detail. Furthermore, I possess excellent communication and problem-solving skills, enabling me to effectively collaborate with cross-functional teams and deliver high-quality software solutions that meet business requirements.
+
+As a Full Stack Developer, my objective is to continuously develop my skills, stay up-to-date with industry trends, and deliver innovative software solutions that exceed expectations.
 </p>
 
 ---
 
 ### Technical skills:  
 <p align="center">
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/javascript.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/python.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/html5.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/css.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/react.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/redux.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/nodejs.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/express.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/postgresql.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/mysql.svg" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/sqlite.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/sequelize.png" width="30" height="30" align="center"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fspectrumcetb%2Fbeginner-s-guide-to-react-js-15lm&psig=AOvVaw2hje6es2CCDoI0Ah4LVhsG&ust=1683141468094000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCop9ys1_4CFQAAAAAdAAAAABAE" width="30" height="30" align="center"/>
+  <img src="https://play.google.com/store/apps/details?id=com.codeliber.htmlpro&hl=en_US" width="30" height="30" align="center"/>
+  <img src="https://play.google.com/store/apps/details?id=com.codeliber.csspro&hl=en_ZA" width="30" height="30" align="center"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fdenispixi%2Fque-es-node-js-y-como-funciona-46ck&psig=AOvVaw22Q0wq5uAux6Mm5OpABhq6&ust=1683141590571000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDSxpat1_4CFQAAAAAdAAAAABAE" width="30" height="30" align="center"/>
+  <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Ftwitter.com%2Fnestframework&psig=AOvVaw2B4zfAe6AGooQRLChJPGwp&ust=1683141622444000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDw3aWt1_4CFQAAAAAdAAAAABAE" width="30" height="30" align="center"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.conectasoftware.com%2Fapps%2Fpostgresql%2F&psig=AOvVaw0YkSaE0TPgUHGMHuhxS1NP&ust=1683141667793000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKD9trut1_4CFQAAAAAdAAAAABAE" width="30" height="30" align="center"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mongodb.com%2F&psig=AOvVaw2sMCY25KHqdbP8cJhgRW-u&ust=1683141699215000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi4rcqt1_4CFQAAAAAdAAAAABAE" width="30" height="30" align="center"/>
 </p>  
 
 ---  
-
 
 <p align="center">
     <a href="https://github.com/genafalconi">
@@ -37,35 +35,24 @@
 
 ---  
 
-## Algunos Proyectos:
+## Some projects:
 
-### Dogs-App 
-Una Landing page de Perros
+### Pets Zone E-commerce
+A personal e-commerce
+Build it with: firebase, reactjs, nestjs, mongodb
+Arquitect: Nestjs Microservices, using Firebase Cloud Functions
+Version 1: Orders coordination
 
 ---
-<img alt="" src="https://github.com/genafalconi/Individual-Proyect-Henry-Dogs/blob/main/preview1.png" />
+<img alt="" src="https://github.com/genafalconi/pets-front/blob/main/Captura%20de%20pantalla%20(97).png" />
 ---
-#### Puedes verlo haciendo Click [Aqui](https://pi-dogs-8yybk8bcz-genafalconi.vercel.app/)
-
----  
----  
-
-### GoBew Client
-Proyecto final donde podemos comprar en nuestro e-commerce de tecnologia
-
----  
-
-[<img alt="" src="https://github.com/genafalconi/FrontGoBew/blob/master/preview.png" />](https://github.com/genafalconi/FrontGoBew)
-
----  
-
-#### Puedes verlo haciendo Click [Aqui](https://gobeworiginal.netlify.app/)  
+#### See it [here](https://petszone-arg.web.app/)
 
 ---  
 ---  
 
 ### GoBew Admin
-Proyecto final donde podemos administrar nuestro e-commerce de tecnologia
+Final project for managing an e-commerce
 
 ---  
 
@@ -73,14 +60,4 @@ Proyecto final donde podemos administrar nuestro e-commerce de tecnologia
 
 ---
 
-#### Puedes verlo haciendo Click [Aqui](https://gobeworiginaladmin.netlify.app/login)  
-
----
----
-
-### GoBew Back
-Backend del proyecto de GoBew
-
----  
-
-#### Puedes verlo haciendo Click [Aqui](https://github.com/genafalconi/BackGoBew)  
+#### See it [here](https://gobeworiginaladmin.netlify.app/login)
