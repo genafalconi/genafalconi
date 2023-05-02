@@ -21,6 +21,8 @@ As a Full Stack Developer, my objective is to continuously develop my skills, st
   <img src="https://github.com/inakielha/inakielha/raw/main/assets/mongo.png" width="30" height="30" align="center"/>
   <img src="https://raw.githubusercontent.com/guiseek/dev-logos.svg/f9b1e6f84b72be919dc70084fb287e7240cd7701/nestjs.svg" width="30" height="30" align="center"/>
   <img src="https://play.vuejs.org/logo.svg" width="30" height="30" align="center"/>
+  <img src="https://www.gstatic.com/devrel-devsite/prod/v8ec4d0a037302c47ae529ad4e3f06c9e782b3a31a381294b5a70403547dc6b12/firebase/images/lockup.svg" width="30" height="30" align="center"/>
+  <img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" width="30" height="30" align="center"/>
 </p>  
 
 ---  
