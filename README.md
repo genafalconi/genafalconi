@@ -13,13 +13,14 @@ As a Full Stack Developer, my objective is to continuously develop my skills, st
 
 ### Technical skills:  
 <p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--50wZvNu6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1wwdyw5de8avrdkgtz5n.png" width="30" height="30" align="center"/>
-  <img src="https://play.google.com/store/apps/details?id=com.codeliber.htmlpro&hl=en_US" width="30" height="30" align="center"/>
-  <img src="https://play.google.com/store/apps/details?id=com.codeliber.csspro&hl=en_ZA" width="30" height="30" align="center"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fdenispixi%2Fque-es-node-js-y-como-funciona-46ck&psig=AOvVaw22Q0wq5uAux6Mm5OpABhq6&ust=1683141590571000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDSxpat1_4CFQAAAAAdAAAAABAE" width="30" height="30" align="center"/>
-  <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Ftwitter.com%2Fnestframework&psig=AOvVaw2B4zfAe6AGooQRLChJPGwp&ust=1683141622444000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDw3aWt1_4CFQAAAAAdAAAAABAE" width="30" height="30" align="center"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.conectasoftware.com%2Fapps%2Fpostgresql%2F&psig=AOvVaw0YkSaE0TPgUHGMHuhxS1NP&ust=1683141667793000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKD9trut1_4CFQAAAAAdAAAAABAE" width="30" height="30" align="center"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mongodb.com%2F&psig=AOvVaw2sMCY25KHqdbP8cJhgRW-u&ust=1683141699215000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi4rcqt1_4CFQAAAAAdAAAAABAE" width="30" height="30" align="center"/>
+  <img src="https://github.com/inakielha/inakielha/raw/main/assets/react.svg" width="30" height="30" align="center"/>
+  <img src="https://github.com/inakielha/inakielha/raw/main/assets/html.svg" width="30" height="30" align="center"/>
+  <img src="https://github.com/inakielha/inakielha/raw/main/assets/css.svg" width="30" height="30" align="center"/>
+  <img src="https://github.com/inakielha/inakielha/raw/main/assets/node.svg" width="30" height="30" align="center"/>
+  <img src="https://github.com/inakielha/inakielha/raw/main/assets/Postgres.svg.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/inakielha/inakielha/raw/main/assets/mongo.png" width="30" height="30" align="center"/>
+  <img src="https://raw.githubusercontent.com/guiseek/dev-logos.svg/f9b1e6f84b72be919dc70084fb287e7240cd7701/nestjs.svg" width="30" height="30" align="center"/>
+  <img src="https://play.vuejs.org/logo.svg" width="30" height="30" align="center"/>
 </p>  
 
 ---  
