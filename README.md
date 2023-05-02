@@ -13,7 +13,7 @@ As a Full Stack Developer, my objective is to continuously develop my skills, st
 
 ### Technical skills:  
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fspectrumcetb%2Fbeginner-s-guide-to-react-js-15lm&psig=AOvVaw2hje6es2CCDoI0Ah4LVhsG&ust=1683141468094000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCop9ys1_4CFQAAAAAdAAAAABAE" width="30" height="30" align="center"/>
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--50wZvNu6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1wwdyw5de8avrdkgtz5n.png" width="30" height="30" align="center"/>
   <img src="https://play.google.com/store/apps/details?id=com.codeliber.htmlpro&hl=en_US" width="30" height="30" align="center"/>
   <img src="https://play.google.com/store/apps/details?id=com.codeliber.csspro&hl=en_ZA" width="30" height="30" align="center"/>
   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fdenispixi%2Fque-es-node-js-y-como-funciona-46ck&psig=AOvVaw22Q0wq5uAux6Mm5OpABhq6&ust=1683141590571000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDSxpat1_4CFQAAAAAdAAAAABAE" width="30" height="30" align="center"/>
