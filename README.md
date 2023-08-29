@@ -1,6 +1,6 @@
 ﻿# Genaro Falconi
 <p> 
-  Full Stack Developer with a degree in Systems Administration, I have a strong background in developing software solutions for various industries. I have recently worked for Exolgan, where I developed and implemented the Import and Export Coordination project. Additionally, I have completed the Foundations of Data Science course and have expertise in using K-Means Clustering in Python.
+  Full Stack Developer with a bachelor's degree in Information Systems Management , I have a strong background in developing software solutions for various industries. I have recently worked for Exolgan, where I developed and implemented the Import and Export Coordination project. Additionally, I have completed the Foundations of Data Science course and have expertise in using K-Means Clustering in Python.
 
 I have proficiency in several programming languages, including ReactJS, NestJS, VueJS, NodeJS, SQL, MongoDB, TypeScript, and Firebase. I am proficient in the technologies that I consider necessary for developing complex and dynamic web applications.
 
