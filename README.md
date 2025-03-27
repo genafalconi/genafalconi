@@ -38,29 +38,3 @@ As a Full Stack Developer, my objective is to continuously develop my skills, st
 
 ---  
 
-## Some projects:
-
-### Pets Zone E-commerce
-A personal e-commerce
-Build it with: firebase, reactjs, nestjs, mongodb
-Arquitect: Nestjs Microservices, using Firebase Cloud Functions
-Version 1: Orders coordination
-
----
-<img alt="" src="https://github.com/genafalconi/pets-front/blob/main/Captura%20de%20pantalla%20(97).png" />
----
-#### See it [here](https://petszone-arg.web.app/)
-
----  
----  
-
-### GoBew Admin
-Final project for managing an e-commerce
-
----  
-
-[<img alt="" src="https://github.com/genafalconi/AdminGoBew/blob/master/preview.png" />](https://github.com/genafalconi/AdminGoBew)
-
----
-
-#### See it [here](https://gobeworiginaladmin.netlify.app/login)
